@@ -8,7 +8,6 @@
     "ordered-imports": false, // 習慣上希望有
     "object-literal-sort-keys": false, // 習慣上希望有
     "max-classes-per-file": false, // 習慣上一隻檔案一個
-    "quotemark": [true, "single"],
     "object-literal-key-quotes": [true, "as-needed"],
     "arrow-parens": [true, "ban-single-arg-parens"],
     "variable-name": [true, "ban-keywords", "allow-leading-underscore"],
