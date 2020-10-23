@@ -16,7 +16,9 @@
     "no-implicit-dependencies": false, // for use alias
     "no-submodule-imports": false, // for use alias
     "no-angle-bracket-type-assertion": false,
-    "no-console": [true, "log"]
+    "no-console": [true, "log"],
+    "jsx-no-lambda": false,
+    "jsx-boolean-value": false
   },
   "rulesDirectory": []
 }
